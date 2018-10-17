@@ -1,0 +1,21 @@
+img{
+  position: relative;
+  width: 100%;
+}
+div{
+  position: absolute;
+  top: 200px; 
+  text-align: center;
+  font-family:"Courier New", "Courier", "monospace";
+  font-size: 36px;
+  color: rgba(0,0,0,.6);
+}
+
+h3{
+  position: absolute;
+  top: 800px;
+  text-align: right;
+  font-family:"Courier New", "Courier", "monospace";
+  font-size: 26px;
+  color: rgba(0,0,0,.8); 
+}
